@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tran+Nguyen+Daenel!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from VietNam VN</h3>
+<h3 align="center">A passionate software developer from VietNam</h3>
 
 <br/>
 
@@ -28,8 +28,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=reac,html,css,vscode,github,figma,tailwind,git,gitlab," />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,mongodb,java,nextjs,mysql,php,aws" /><br>
 </div>
 
 <br/>
