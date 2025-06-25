@@ -1,135 +1,266 @@
-# Hi there! 👋 I'm [Your Name]
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello%20World!&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+</div>
+
+# 👋 Hello, I'm Tran Nguyen Daenel
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=A+passionate+Full+Stack+Developer;From+Vietnam;Building+amazing+tech+products;Always+learning+and+growing" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** with a love for creating innovative solutions and beautiful user experiences. I enjoy working with modern technologies and am always eager to learn new things.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, or anything tech-related**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🌱 **Currently learning:** Advanced React Patterns, Microservices Architecture, and AI/ML Integration
+- 👯 **Looking to collaborate on:** Open Source projects, Web Applications, and Mobile Development
+- 🤔 **Currently exploring:** Cloud Native Technologies, DevOps practices, and Modern Frontend Frameworks
+- 💬 **Ask me about:** JavaScript, TypeScript, React, Node.js, Database Design, and System Architecture
+- 📫 **How to reach me:** [your.email@example.com] or through social media below
+- ⚡ **Fun fact:** I can debug code with console.log and I'm proud of it! 😄
+- 🎯 **2024 Goals:** Contribute more to Open Source community and build a SaaS product
 
-## 🛠️ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🎯 Featured Projects
-
-### 🌟 [Project Name 1](https://github.com/yourusername/project1)
-**Description:** Brief description of what this project does and why it's awesome.
-- **Tech Stack:** React, Node.js, MongoDB, Express
-- **Features:** Key features of the project
-- **Live Demo:** [View Live](https://your-project-demo.com)
-
-### 🌟 [Project Name 2](https://github.com/yourusername/project2)
-**Description:** Brief description of what this project does and why it's awesome.
-- **Tech Stack:** Next.js, TypeScript, PostgreSQL, Prisma
-- **Features:** Key features of the project
-- **Live Demo:** [View Live](https://your-project-demo.com)
-
-### 🌟 [Project Name 3](https://github.com/yourusername/project3)
-**Description:** Brief description of what this project does and why it's awesome.
-- **Tech Stack:** Vue.js, Python, FastAPI, Docker
-- **Features:** Key features of the project
-- **Live Demo:** [View Live](https://your-project-demo.com)
-
-## 🏆 Achievements
-
-- 🥇 **[Achievement 1]** - Description of your achievement
-- 🎖️ **[Achievement 2]** - Description of your achievement
-- 🏅 **[Achievement 3]** - Description of your achievement
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://your-blog.com/post1)
-- [Blog Post Title 2](https://your-blog.com/post2)
-- [Blog Post Title 3](https://your-blog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+---
 
 ## 🤝 Connect with Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin])
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[your-twitter])
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://[your-portfolio].com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your.email@example.com])
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/[your-discord])
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/[your-facebook])
 
 </div>
 
-## 💡 Random Dev Quote
+---
+
+## 🚀 Languages & Technologies
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,sass,bootstrap" />
+</p>
+
+### ⚙️ Backend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi,java,spring,php,laravel" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase,aws,gcp,azure,docker" />
+</p>
+
+### 🛠️ Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux,bash,webpack,vite,jest" />
+</p>
+
 </div>
 
-## 🎵 Spotify Playing
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&limit=5" alt="Spotify Playing" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[your_github_username]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your_github_username]&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your_github_username]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[your_github_username]&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🛒 E-Commerce Platform</h3>
+        <div align="center">  
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=[your_github_username]&repo=[repo-name-1]&theme=tokyonight&hide_border=true" />
+        </div>
+        <p><strong>Full-featured e-commerce platform</strong></p>
+        <p>🛠️ <strong>Tech Stack:</strong> React, Node.js, MongoDB, Stripe API</p>
+        <p>✨ <strong>Features:</strong> Online payments, Inventory management, Admin dashboard</p>
+        <p>
+          <a href="https://github.com/[your_github_username]/[repo-name-1]" target="_blank">
+            <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://[demo-link-1].com" target="_blank">
+            <img src="https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🤖 AI Task Manager</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=[your_github_username]&repo=[repo-name-2]&theme=tokyonight&hide_border=true" />
+        </div>
+        <p><strong>Smart task management app with AI</strong></p>
+        <p>🛠️ <strong>Tech Stack:</strong> Next.js, TypeScript, OpenAI API, Prisma</p>
+        <p>✨ <strong>Features:</strong> AI suggestions, Smart scheduling, Team collaboration</p>
+        <p>
+          <a href="https://github.com/[your_github_username]/[repo-name-2]" target="_blank">
+            <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://[demo-link-2].com" target="_blank">
+            <img src="https://img.shields.io/badge/Live%20Demo-4ECDC4?style=for-the-badge&logo=netlify&logoColor=white"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📱 Social Media Dashboard</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=[your_github_username]&repo=[repo-name-3]&theme=tokyonight&hide_border=true" />
+        </div>
+        <p><strong>Social media analytics dashboard</strong></p>
+        <p>🛠️ <strong>Tech Stack:</strong> Vue.js, Express, PostgreSQL, Chart.js</p>
+        <p>✨ <strong>Features:</strong> Multi-platform integration, Real-time analytics, Automated reports</p>
+        <p>
+          <a href="https://github.com/[your_github_username]/[repo-name-3]" target="_blank">
+            <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://[demo-link-3].com" target="_blank">
+            <img src="https://img.shields.io/badge/Live%20Demo-45B7D1?style=for-the-badge&logo=heroku&logoColor=white"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Animation"/>
+          <h4>🚀 Always ready for new projects!</h4>
+          <p>Let's connect to discuss your ideas</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+        <br><strong>AWS Solutions Architect</strong>
+        <br><small>Professional cloud architecture</small>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+        <br><strong>GCP Professional</strong>
+        <br><small>Google Cloud expert</small>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+        <br><strong>Azure Fundamentals</strong>
+        <br><small>Microsoft Azure foundation</small>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        <br><strong>Docker & Kubernetes</strong>
+        <br><small>Container & Orchestration</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<div align="center">
+  
+<!-- BLOG-POST-LIST:START -->
+📚 [**Building Modern React Applications with Hooks and Context**](https://[your-blog].com/react-hooks-context)  
+🔧 [**GraphQL API with Node.js: Complete Guide**](https://[your-blog].com/nodejs-graphql-guide)  
+🎨 [**CSS Grid vs Flexbox: When to Use What?**](https://[your-blog].com/css-grid-vs-flexbox)  
+🚀 [**Deploy Full-Stack Apps with Docker and AWS**](https://[your-blog].com/docker-aws-deployment)  
+💡 [**JavaScript Performance Optimization: Tips and Tricks**](https://[your-blog].com/javascript-performance)  
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+---
+
+## 🎵 Currently Listening To
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=444&limit=5" alt="Spotify Playing" />
+</div>
+
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/[your_github_username]/[your_github_username]/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+## 📈 Recent Activity
+
+<div align="center">
+  
+### 🔥 Current Streak: [Number] days
+### ⭐ Total Stars: [Number]
+### 🍴 Total Forks: [Number]
+### 👥 Followers: [Number]
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
 </div>
 
 <div align="center">
-  
-**Thanks for visiting! 😊**
+  <img src="https://komarev.com/ghpvc/?username=[your_github_username]&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/[your_github_username]?style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/[your_github_username]?style=for-the-badge&color=yellow" alt="Stars" />
+</div>
 
-*Let's connect and build something amazing together!* 🚀
+<div align="center">
+  <h3>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    Thanks for visiting my profile! Let's build something amazing together!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h3>
+</div>
 
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/open-source.svg" />
 </div>
