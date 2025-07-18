@@ -69,14 +69,6 @@
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tndaenel27/tndaenel27/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
 </div>
